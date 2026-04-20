@@ -79,6 +79,10 @@ body {
     white-space: nowrap;
 }
 
+.cu{
+    cursor: pointer;
+}
+
 .menu a:hover {
     color: #ff6b6b;
     background-color: rgba(255, 107, 107, 0.1);
